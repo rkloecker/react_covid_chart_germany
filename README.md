@@ -1,5 +1,11 @@
 # git react_covid_chart_germany
 
+### using data from https://api.corona-zahlen.org/germany/history/incidence
+
+### fetch, react hooks, chart.js 3
+
+## Live Demo https://rkloecker.github.io/react_covid_chart_germany
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
