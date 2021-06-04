@@ -1,8 +1,8 @@
-# git react_covid_chart_germany
+# react_covid_chart_germany
 
 ### using data from https://api.corona-zahlen.org/germany/history/incidence
 
-### fetch, react hooks, chart.js 3
+### [Chart.js](https://www.chartjs.org/docs/latest/), React Hooks, Fetch Api
 
 ## Live Demo https://rkloecker.github.io/react_covid_chart_germany
 
