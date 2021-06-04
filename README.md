@@ -1,4 +1,4 @@
-# react_covid_chart_germany
+# React Covid Chart Germany
 
 ### using data from https://api.corona-zahlen.org/germany/history/incidence
 
