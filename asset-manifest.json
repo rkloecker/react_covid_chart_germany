@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_covid_chart_germany/static/css/main.60c4aa36.chunk.css",
+    "main.js": "/react_covid_chart_germany/static/js/main.6f7dd159.chunk.js",
+    "main.js.map": "/react_covid_chart_germany/static/js/main.6f7dd159.chunk.js.map",
+    "runtime-main.js": "/react_covid_chart_germany/static/js/runtime-main.a40e3cbb.js",
+    "runtime-main.js.map": "/react_covid_chart_germany/static/js/runtime-main.a40e3cbb.js.map",
+    "static/js/2.cbf9b7ba.chunk.js": "/react_covid_chart_germany/static/js/2.cbf9b7ba.chunk.js",
+    "static/js/2.cbf9b7ba.chunk.js.map": "/react_covid_chart_germany/static/js/2.cbf9b7ba.chunk.js.map",
+    "static/js/3.b0e57230.chunk.js": "/react_covid_chart_germany/static/js/3.b0e57230.chunk.js",
+    "static/js/3.b0e57230.chunk.js.map": "/react_covid_chart_germany/static/js/3.b0e57230.chunk.js.map",
+    "index.html": "/react_covid_chart_germany/index.html",
+    "static/css/main.60c4aa36.chunk.css.map": "/react_covid_chart_germany/static/css/main.60c4aa36.chunk.css.map",
+    "static/js/2.cbf9b7ba.chunk.js.LICENSE.txt": "/react_covid_chart_germany/static/js/2.cbf9b7ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a40e3cbb.js",
+    "static/js/2.cbf9b7ba.chunk.js",
+    "static/css/main.60c4aa36.chunk.css",
+    "static/js/main.6f7dd159.chunk.js"
+  ]
+}
